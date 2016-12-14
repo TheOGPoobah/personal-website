@@ -1,0 +1,22 @@
+baseurl = "https://ssalvail.com/"
+title = "Sam Salvail's Website"
+languageCode = "en-us"
+disqusShortname = "ssalvail"
+
+[params]
+  GithubID = "TheOGPoobah"
+  TwitterID = "ssalvail39"
+  LinkedInID = "ssalvail"
+  Name = "Sam Salvail"
+  HeaderUsername = "sam"
+  HeaderHostname = "home"
+  Email = "ssalvail39@gmail.com"
+  About = "Hello World!"
+  ProfilePicture = "images/headshot_updated.jpg"
+  GoogleAnalytics = "your_google_analytics_id"
+
+  [menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/post"
